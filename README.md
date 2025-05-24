@@ -1,4 +1,5 @@
 #JS-Assignment-four#
+
 Variables & Data Types What is the difference between var, let, and const?
 What are the basic data types in JavaScript? (e.g., string, number, boolean) Give examples.
 
